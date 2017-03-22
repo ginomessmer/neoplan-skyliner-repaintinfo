@@ -1,0 +1,211 @@
+{
+	"repaintName": "<REPAINT NAME>",
+	"author": "<AUTHOR>",
+	"description": "<DESCRIPTION>",
+	"TextureInfos": [
+		{
+			"MeshName": "Mesh",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "Mesh",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "Mesh",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "Mesh",
+			"MaterialName": "MI_Neoplan_SL_INT_Glass",
+			"ParameterName": "Repaint MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorFront",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorFront",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorFront",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorFront",
+			"MaterialName": "MI_Neoplan_SL_INT_Glass",
+			"ParameterName": "Repaint MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorMiddle",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorMiddle",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorMiddle",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorMiddle",
+			"MaterialName": "MI_Neoplan_SL_INT_Glass",
+			"ParameterName": "Repaint MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorRear",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorRear",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorRear",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_DoorRear",
+			"MaterialName": "MI_Neoplan_SL_INT_Glass",
+			"ParameterName": "Repaint MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchRight_01",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchRight_01",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchRight_01",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchRight_02",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchRight_02",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchRight_02",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchLeft_01",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchLeft_01",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchLeft_01",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchLeft_02",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchLeft_02",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_HatchLeft_02",
+			"MaterialName": "MI_Neoplan_SL_EXT_Glass",
+			"ParameterName": "MASK",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_WheelRight_01",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_WheelRight_02",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_WheelRight_03",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_WheelLeft_01",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_WheelLeft_02",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		},
+		{
+			"MeshName": "SM_Neoplan_SL_WheelLeft_03",
+			"MaterialName": "MI_Neoplan_SL_EXT",
+			"ParameterName": "Diffuse",
+			"TextureFilename": "repaint.png"
+		}
+	]
+}
